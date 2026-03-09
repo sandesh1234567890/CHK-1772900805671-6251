@@ -108,7 +108,7 @@ const App = () => {
           ]
         }
       ],
-      systemInstruction: {
+      system_instruction: {
         parts: [{ text: systemPrompt }]
       },
       generationConfig: {
